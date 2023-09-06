@@ -1,0 +1,90 @@
+{
+    "Exam1": {
+        "id": 1,
+        "quesNum": 5,
+        "Question1": {
+            "Question": "Assisted living residences provide all of the following, except:",
+            "Option1": "Housing.",
+            "Option2": "Complex medical care.",
+            "Option3": "Help with personal care.",
+            "Option4": "Social activities.",
+            "Correct Answer": 2
+        },
+        "Question2": {
+            "Question": "What does the CCA need to remind the client about during rehabiliation?",
+            "Option1": "Progress.",
+            "Option2": "Disabilities.",
+            "Option3": "Strengths and weaknesses.",
+            "Option4": "Limits.",
+            "Correct Answer": 1
+        },
+        "Question3": {
+            "Question": "Which are cultural influences?",
+            "Option1": "Shelter, nutrition, security and affection.",
+            "Option2": "Comfort, caring, loving and trust.",
+            "Option3": "Respect, compassion, empathy and sympathy.",
+            "Option4": "Language, values, beliefs, customs.",
+            "Correct Answer": 4
+        },
+        "Question4": {
+            "Question": "Who can delegate tasks to CCAs?",
+            "Option1": "Doctors.",
+            "Option2": "Other CCAs.",
+            "Option3": "Registered nurses.",
+            "Option4": "Therapists.",
+            "Correct Answer": 3
+        },
+        "Question5": {
+            "Question": "Which of the following statements about autonomy is correct?",
+            "Option1": "It is a fundamental ethical principle.",
+            "Option2": "It means limited choice.",
+            "Option3": "There should be laws to protect client rights.",
+            "Option4": "It means unlimited choice.",
+            "Correct Answer": 1
+        }
+    },
+    "Exam2": {
+        "id": 2,
+        "quesNum": 5,
+        "Question1": {
+            "Question": "Lori and Eleanor have been caring for their ill grandmother for several years and need a break. Which service should they look into?",
+            "Option1": "Respite care.",
+            "Option2": "Hospice care.",
+            "Option3": "Long-term care.",
+            "Option4": "Group home care.",
+            "Correct Answer": 1
+        },
+        "Question2": {
+            "Question": "When does rehabilitation start for an affected person?",
+            "Option1": "When s/he is admitted to restorative care.",
+            "Option2": "When s/he seeks hospital care.",
+            "Option3": "When s/he first seeks health care.",
+            "Option4": "When the physician writes the order.",
+            "Correct Answer": 3
+        },
+        "Question3": {
+            "Question": "What is ethics?",
+            "Option1": "A process by which a nurse authorizes another health care provider to perform certain tasks.",
+            "Option2": "The principles that guide us when deciding what is right and what is wrong, and what is good and what is bad.",
+            "Option3": "A process by which the CCA performs certain tasks.",
+            "Option4": "Personal attributes that should guide the CCA's work and conduct.",
+            "Correct Answer": 2
+        },
+        "Question4": {
+            "Question": "What is personal accountability?",
+            "Option1": "Willingness to accept responsibility and to explain your actions, inactions or omissions, intentions and decisions.",
+            "Option2": "Shelter, nutrition, security and affection or physical, safety, love and belonging and self-esteem and self-actualization",
+            "Option3": "Report what you witnessed to your supervisor.",
+            "Option4": "Respect, compassion, empathy, sympathy, competence and self-awareness.",
+            "Correct Answer": 1
+        },
+        "Question5": {
+            "Question": "Care providers are:",
+            "Option1": "Paid formal people providing care.",
+            "Option2": "In the best health possible.",
+            "Option3": "Unpaid informal people providing care.",
+            "Option4": "People who serve meals to clients.",
+            "Correct Answer": 1
+        }
+    }
+}
